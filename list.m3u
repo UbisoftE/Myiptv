@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1,广东体育
-http://cdn2.123.rr.kg/163189/gdty
+#EXTINF:-1,
 #EXTINF:-1,大湾区卫视
 https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 #EXTINF:-1,广东珠江
 https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-#EXTINF:-1,广东体育720p
-http://107.150.42.114:82/live/gdty.m3u8?jsbt=1784485457&jsbk=5a151a69cc8d5f335df25d18e9fc7d91
+#EXTINF:-1,
